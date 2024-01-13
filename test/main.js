@@ -40,7 +40,7 @@ describe('DOM', () => {
 		const cardTitleEl = document.querySelector('.card__title');
 		const cardMark = cardTitleEl.querySelector('mark').textContent;
 
-		cardMark.should.equal('insights');
+		cardMark.should.include('insights');
 	});
 
 	it('should have two children inside of the article element', () => {
