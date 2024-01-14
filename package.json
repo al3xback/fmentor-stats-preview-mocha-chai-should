@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-stats-preview-mocha-chai-should",
 	"version": "1.0.0",
-	"description": "stats preview card component using mocha and chai testing with should style",
+	"description": "stats preview card component using mocha and chai with should style",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
