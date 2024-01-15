@@ -20,6 +20,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Mocha - Chai (BDD Should style)
+- Got
+- Jsdom
 - Mobile-first workflow
 
 ## Author
